@@ -1,0 +1,30 @@
+
+body{
+    background-color: rgb(169, 202, 255);
+}
+h1 {
+    text-align: center;
+    text-shadow: 1px -1px grey;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+}
+h2{
+   margin-left:50px
+}
+img{
+    float:right;
+    border-color:rgb(17, 108, 136);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-right: 100px;
+}
+ol{
+    margin-left:50px;
+}
+ul{
+    margin-left:50px;
+}
+li{
+    line-height: 25px;
+}
